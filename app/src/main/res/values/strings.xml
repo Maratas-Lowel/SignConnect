@@ -1,3 +1,14 @@
 <resources>
-    <string name="app_name">SignConnect_app</string>
+    <string name="app_name">SignConnect</string>
+    <string name="audio_active">Audio Active</string>
+    <string name="audio_muted">Audio Muted</string>
+    <string name="offline_secure_status">Offline • Secure</string>
+    <string name="settings_content_desc">Settings</string>
+    <string name="camera_viewport_text">Camera Viewport\n(FSL Hand Tracking Active)</string>
+    <string name="real_time_translation_header">REAL-TIME TRANSLATION</string>
+    <!-- Corrected translation string with proper capitalization -->
+    <string name="translation_sample">Patient indicates dizziness / Nahihilo</string>
+    <string name="speak_translation_desc">Speak translation</string>
+    <string name="audio_output_btn">Audio Output</string>
+    <string name="history_log_btn">History Log</string>
 </resources>
